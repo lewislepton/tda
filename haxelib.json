@@ -1,0 +1,10 @@
+{
+	"name": "tda",
+	"url" : "https://gitlab.com/lewislepton/tda",
+	"license": "MIT",
+	"tags": ["cross", "game", "animation", "sprite"],
+	"description": "sprite animation",
+	"version": "0.0.1",
+	"contributors": ["lewislepton"],
+	"classPath": "Sources"
+}
